@@ -35,7 +35,7 @@ Faça o clone do repositório para ter uma versão do projeto em sua máquina:<b
 `$ git clone https://github.com/mmanaclara/hp-api.git`
 
 ### 🧰 Instalar dependências
-`$ npm install ou yarn add`  
+`$ npm install ou yarn`  
 
 ### 🚀 Iniciar o projeto
 `$ npm start ou yarn start`
