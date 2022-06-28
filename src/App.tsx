@@ -1,5 +1,5 @@
-import { Header } from "./Header";
-import { WizardCard } from "./WizardCard";
+import { Header } from "./components/Header";
+import { WizardCard } from "./components/WizardCard";
 
 import { GlobalStyle } from "./global";
 import { Container } from "./styles";
